@@ -1,0 +1,1 @@
+la liste est la structure de donnes optimale
